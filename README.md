@@ -1,2 +1,2 @@
 # AsianOptionPricing
-Price asian option by arithmetic algorithm and geometric algorithm (variance reduction). Compare these two algorithm's result and their estimation errors.  
+Pricing an asian option by arithmetic algorithm and Monte Carlo simulation. Comparing these two algorithm's results and their estimation errors.  
